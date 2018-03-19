@@ -93,7 +93,7 @@ function populateEngines(engines) {
                 <div id=';
         engineHTML += cardID + ' class="embed-responsive embed-responsive-1by1">\
                 </div>\
-                <p class="card-text" id="' + cardID + '_url">' + cardID + '</p>\
+                <p class="card-text" id="' + cardID + '_url"></p>\
             </div>\
         </div>\
         ';
